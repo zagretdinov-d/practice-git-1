@@ -1,4 +1,5 @@
 My first line in project
 Changes to be committed
+Changes not staged for commit
 Changes not staged for commit.
 Paris is the capital of France
